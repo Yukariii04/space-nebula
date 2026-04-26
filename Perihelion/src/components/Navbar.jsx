@@ -16,7 +16,7 @@ export default function Navbar() {
 
   return (
     <nav className={scrolled ? 'scrolled' : ''} id="navbar">
-      <a href="#" className="nav-logo">NEB<em>U</em>LA</a>
+      <a href="#" className="nav-logo">PERI<em>H</em>ELION</a>
       <ul className="nav-links">
         <li><a href="#missions" onClick={(e) => handleClick(e, 'missions')}>Missions</a></li>
         <li><a href="#technology" onClick={(e) => handleClick(e, 'technology')}>Technology</a></li>

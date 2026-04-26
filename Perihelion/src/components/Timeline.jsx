@@ -21,7 +21,7 @@ const steps = [
   { num: '01', title: '2025', desc: 'Kepler Relay Alpha deployed in Mars orbit. First quantum-linked data transmission across 225 million km.' },
   { num: '02', title: '2027', desc: 'Artemis Deep lunar base achieves self-sustaining biosphere. First crew of 12 begins year-long rotation.' },
   { num: '03', title: '2031', desc: 'Voyager Genesis probe launches on a 40-year journey to Proxima Centauri at 10% speed of light.' },
-  { num: '04', title: '2040', desc: 'First orbital city — NEBULA Station — reaches full operational capacity: 5,000 permanent residents.' },
+  { num: '04', title: '2040', desc: 'First orbital city — PERIHELION Station — reaches full operational capacity: 5,000 permanent residents.' },
 ];
 
 export default function Timeline() {

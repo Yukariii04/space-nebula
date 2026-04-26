@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer-premium">
       <div className="footer-top">
         <div className="f-brand">
-          <a href="#" className="f-logo">NEB<em>U</em>LA</a>
+          <a href="#" className="f-logo">PERI<em>H</em>ELION</a>
           <p className="f-desc">Pioneering the next era of interstellar exploration and sustainable cosmic infrastructure.</p>
         </div>
         <div className="f-links-grid">
@@ -28,7 +28,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <div className="f-copy">© 2026 NEBULA. Interstellar Exploration Agency.</div>
+        <div className="f-copy">© 2026 PERIHELION. Interstellar Exploration Agency.</div>
         <div className="f-legal">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>

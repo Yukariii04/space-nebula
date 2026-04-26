@@ -35,7 +35,7 @@ export default function Contact() {
         <RevealBlock delay={0.1}>
           <p className="cta-sub">
             The universe doesn't wait. Neither should you.<br />
-            Apply for our next crew selection or partner with NEBULA.
+            Apply for our next crew selection or partner with PERIHELION.
           </p>
         </RevealBlock>
         <RevealBlock delay={0.2}>
